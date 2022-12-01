@@ -36,7 +36,7 @@ You will be prompted to choose between the terminal or graphical versions of the
 - ***N.B to run the terminal version of the game the terminal width must be above 700 pixels wide and height above 300 pixels wide if the game fails to run, increase both width and height***
 
 ## Prerequisites
-**To understand the code base of the project at least you must have a basic skill level in python. To run the following program:**
+**To understand the code base of the project at least you must have a basic skill level in [python](https://www.python.org/). To run the following program:**
 - Must have python3 installed up and running to install head to python website.
 - Install all Modules and libraries listed in the Modules and Libraries section:
 > Curses for Linux and Mac users it is preinstalled for windows run
